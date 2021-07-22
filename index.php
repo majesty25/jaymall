@@ -474,11 +474,11 @@ $res = $conn->query($sql1);
         <div id="slide2">
 
             <div class="" style="max-width: 100%; height: 10px">
-                <img class="mySlides1 w3-animate-top" src="font/majesty1.png" style="width:100%; min-height: 340px">
-                <img class="mySlides1 w3-animate-bottom" src="font/hugs + kisses (1).png" style="width:100%; min-height: 340px">
-                <img class=" mySlides1 w3-animate-top" src="font/hugs + kisses.png" style="width:100%; min-height: 340px">
-                <img class=" mySlides1 w3-animate-top" src="font/social-media-sales-banner-template_220290-14.jpg" style="width:100%; min-height: 340px">
-                <img class=" mySlides1 w3-animate-top" src="font/majesty0.gif" style="width:100%; min-height: 340px">
+                <img class="mySlides1 w3-animate-top" src="https://i.imgur.com/93OJUhH.jpg" style="width:100%; min-height: 340px">
+                <img class="mySlides1 w3-animate-bottom" src="https://i.imgur.com/BV7VWBK.png" style="width:100%; min-height: 340px">
+                <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/lMocjDH.jpg" style="width:100%; min-height: 340px">
+                <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/qGNBdKe.png" style="width:100%; min-height: 340px">
+                <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/yrQUTsp.gifv" style="width:100%; min-height: 340px">
                 <!-- <img class=" mySlides1 w3-animate-bottom" src="img_rr_04.jpg" style="width:100%"> -->
             </div>
 
