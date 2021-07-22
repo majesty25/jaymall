@@ -478,7 +478,7 @@ $res = $conn->query($sql1);
                 <img class="mySlides1 w3-animate-bottom" src="https://i.imgur.com/BV7VWBK.png" style="width:100%; min-height: 340px">
                 <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/lMocjDH.jpg" style="width:100%; min-height: 340px">
                 <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/qGNBdKe.png" style="width:100%; min-height: 340px">
-                <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/yrQUTsp.gifv" style="width:100%; min-height: 340px">
+                <img class=" mySlides1 w3-animate-top" src="https://i.imgur.com/yrQUTsp.gif" style="width:100%; min-height: 340px">
                 <!-- <img class=" mySlides1 w3-animate-bottom" src="img_rr_04.jpg" style="width:100%"> -->
             </div>
 
