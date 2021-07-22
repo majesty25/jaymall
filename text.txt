@@ -1,0 +1,6 @@
+Jaymall is an online shopping mall that provide a room for you to buy all your items. 
+We provide you a secured ordering system that allows you to place order online. 
+We also give individuals an oportunity to sell their items of any category on our platform.
+Two  mode of payment is accepted on our platform: Mobile Money payment and pay on delivery.
+When you place an order, we quickly review your order to verify and confirm if complete and successful payment has been
+done. Confirmed order is delivered to you at your doorstep
