@@ -38,9 +38,9 @@ $res = $conn->query($sql1);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="homepage.css">
     <link rel="stylesheet" href="w3school.css">
-    <!-- <script src='fontawesome-free-5.13.0-web/js/all.js'></script> -->
-    <!-- <link rel="stylesheet" href="fontawesome-free-5.13.0-web/css/all.css"> -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+    <script src='fontawesome-free-5.13.0-web/js/all.js'></script>
+    <link rel="stylesheet" href="fontawesome-free-5.13.0-web/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="jquery.js"></script>
     <link rel="icon" href="font/57a85364f950491caa217f675d9fd663.jpg" type="image/x-icon">
     <title>Document</title>
